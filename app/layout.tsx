@@ -79,7 +79,7 @@ export default function RootLayout({
                     href="https://wa.me/554999117406"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="fixed z-50 bottom-6 right-6 flex items-center px-5 py-3 bg-green-600 hover:bg-green-700 text-white font-semibold rounded-full shadow-lg transition-all duration-300 gap-2"
+                    className="fixed z-50 bottom-6 right-6 flex items-center px-2 py-3 bg-green-600 hover:bg-green-700 text-white font-semibold rounded-full shadow-lg transition-all duration-300 gap-2"
                     style={{
                         boxShadow: '0 4px 24px 0 rgba(37, 211, 102, 0.3)',
                     }}
@@ -87,7 +87,7 @@ export default function RootLayout({
                     <svg
                         xmlns="http://www.w3.org/2000/svg"
                         viewBox="0 0 32 32"
-                        width="28"
+                        width="25"
                         height="28"
                         fill="currentColor"
                     >
